@@ -123,3 +123,7 @@ while not exitApp:
         print("Couldn't fetch data from ISS API. Exit App...")
 
 # The program will exit after the user presses 'n' and won't continue to fetch ISS location
+
+#Unique Problem: geocoding services, like Nominatim, may have limitations on the number of requests you can make in a given time period.
+     
+
